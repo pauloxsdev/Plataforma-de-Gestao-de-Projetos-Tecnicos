@@ -32,7 +32,11 @@ A interface permite que as equipes realizem a gestão completa do ciclo de vida 
 
 ##  Autores
 **Amanda Morais Castelo Cadete**
+
 **Italo Vinicius Sampaio da Silva**
+
 **Graziela Lucena Arruda**
+
 **Lanna Adriely Felix Rezende**
+
 **Paulo Rafael da Silva Sales**
